@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(68, 65, 67);
+}
+.header{
+    background-color:burlywood;
+    padding: 11px 0px;
+    padding-bottom: 16spx;
+    text-align: center;
+}
+.nav li{ 
+    list-style: none; 
+    display: inline-block; 
+    padding: 8px; 
+    } 
+.image{
+    float: left;
+    padding: 0px 10px;
+}
+.nav{
+    /* float: left; */
+    background-color: rgb(173, 183, 201);
+    padding: 20px;
+    float: inline-end;
+}
+.image_2{
+    padding: 0px;
+}
+.lside{
+    float: left;
+    width: 75%;
+    text-align: center;
+    min-height: 400px;
+    /* background-color: darksalmon; */
+    font-size: larger;
+    background-color: bisque;
+    background-image:-moz-linear-gradient() ;
+    background-image: url(re_image_2.jpg);
+    background-position: left;
+}
+.rside{
+    float: right;
+    width: 25%;
+    text-align: center;
+    min-height: 400px;
+    background-color: aliceblue;
+    /* background-image: url(interceptor-650-wallpaper-1.jpg);
+    background-position: center; */
+}
+.lside_one{
+    float: left;
+    min-height: 450px;
+    width: 50%;
+    background-color: darkgoldenrod;
+    background-image: url(re_interceptor.jpg);
+    background-position: bottom;
+    text-align: center;
+}
+.rside_one{
+    float: right;
+    width: 50%;
+    background-color: darkkhaki;
+    background-image: url(re_interceptor_4.jpg);
+    background-position: center;
+    min-height: 450px;
+    text-align: right;
+}
+.home_one{
+    float: center;
+    width: 100%;
+    background-color: rgb(92, 121, 174);
+    min-height: 100px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.home_two{
+    float: left;
+    width: 100%;
+    background-color: rgb(169, 215, 255);
+    min-height: 50%;
+    text-align: center;
+    font-size: larger;
+}
+.home_three_lside{
+    float: left;
+    width: 50%;
+    background-color:wheat;
+    min-height: 50%;
+    text-align: center;
+}
+.home_three_rside{
+    float: right;
+    width: 50%;
+    background-color: beige;
+    min-height: 50%;
+    text-align: center;
+}
+.home_four_lside{
+    float: left;
+    width: 50%;
+    background-color: rgb(140, 211, 189);
+    min-height: 400px;
+    text-align: left;
+    background-image: url(re_interceptor_5.jpg);
+    background-position: center;
+}
+.home_four_rside{
+    float: right;
+    width: 50%;
+    background-color: cadetblue;
+    min-height: 400px;
+    text-align: left;
+    background-image: url(re_continental.jpg);
+    background-position: center;
+}
+.home_five{
+    float: right;
+    width: 100%;
+    background-color:beige;
+    min-height: 850px;
+    text-align: left;
+    background-image: url(re_differnce.jpg);
+    background-size: cover;
+}
+.menu_one{
+    padding: 11px 0px;
+    padding-bottom: 16spx;
+    text-align: center;
+    background-color: rgb(10, 108, 182);
+}
+.col-4{
+    width: 33.33%;
+    float: left;
+    color:rgb(147, 147, 6);
+    height: 80px;
+    font-size: x-large;
+    background-color: rgb(6, 59, 88);
+}
+.menu_two_lside{
+    float: left;
+    width: 33.33%;
+    background-color: rgb(140, 211, 189);
+    min-height: 400px;
+    text-align: left;
+    background-image: url(re-himalayan.jpg);
+    background-position: center;
+}
+.menu_two_center{
+    float: left;
+    width: 33.33%;
+    background-color: rgb(140, 211, 189);
+    min-height: 400px;
+    text-align: left;
+    background-image: url(re_hunter.jpg);
+    background-position: center;
+}
+.menu_two_risde{
+    float: left;
+    width: 33.33%;
+    background-color: rgb(140, 211, 189);
+    min-height: 400px;
+    text-align: left;
+    background-image: url(re_classic_350.jpg);
+    background-position: center;
+}.sign_up_one{
+    background-color: rgb(92, 121, 174);
+    width: 100%;
+    float: center;
+    text-align: center;
+    min-height: 700px;
+    font-size: x-large;
+}
+.footer{
+    background-color:antiquewhite;
+    text-align: center;
+    min-width: 100%;
+    min-height: 50px;
+    display: inline-block;
+}
